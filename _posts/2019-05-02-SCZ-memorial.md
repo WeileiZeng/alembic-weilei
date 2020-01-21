@@ -14,6 +14,8 @@ And Eternity in an hour."
 <br>
 </center>
 
+<!-- more -->
+
 ### Links for the workshop
 
 [The Shoucheng Zhang Memorial Workshop - May 2 - 4, 2019](https://glam.stanford.edu/Shoucheng_Zhang_Memorial_Workshop)
