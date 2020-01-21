@@ -112,14 +112,18 @@ navigation_header:
   url: /
 - title: Resume
   url: /resume/
-- title: Elements
-  url: /elements/
+- title: Publications
+  url: /publications/
 - title: Blog
   url: /blog/
 - title: Categories
   url: /categories/
+- title: Resource
+  url: /resouce/
 - title: Search
   url: /search/
+- title: Elements
+  url: /elements/
 #- title: Fork Alembic
 #  url: https://github.com/daviddarnes/alembic
 
