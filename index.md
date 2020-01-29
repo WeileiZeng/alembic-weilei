@@ -2,9 +2,9 @@
 title: Home
 feature_text: |
   ## Weilei Zeng
-  Welcome to my new home page
+  The world is unitary
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Welcome"
+excerpt: "Welcome to my homepage!"
 ---
 PhD student in <a href="https://faculty.ucr.edu/~leonid/">
 Prof Leonid Pryadko's group</a> at UC Riverside, interested
