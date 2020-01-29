@@ -58,7 +58,6 @@ Interest: quantum error correction, quantum computing, condensed matter physics<
 
 
 <h2>- Professional Acticities</h2>
-<p>
 
   <h4> Conference organization </h4>
   <li>
@@ -81,7 +80,7 @@ Interest: quantum error correction, quantum computing, condensed matter physics<
   <li> E3 2017, LA </li>
   <li> TeV Experimental Physics Summer School, 2015, Shandong University, China </li>
   <li> Summer School in Department of Physics, 2014, Tsinghua University, China </li>
-</p>
+
 
 <h2> Skills </h2>
 

@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Resource and Library
-feature_image: "https://picsum.photos/2560/600?image=873"
-feature_text: |
-  To learn more about quantum computing
+feature_image: "https://miro.medium.com/max/1878/1*CQPNQqE4X2Jh5XomWQrWQQ.png"
+#feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "resources for quantum computing"
 ---
 
