@@ -2,7 +2,7 @@
 title: "Coronavirus in China 冠状病毒动态"
 categories:
 - News
-feature_image: "https://www.sciencealert.com/images/2020-01/processed/wuhan_coronavirus_map_science_outbreak_600.jpg"
+feature_image: "https://raw.githubusercontent.com/coddec/2020-new-coronavirus/master/images/map.png"
 ---
 Recently, the coronavirus become severe in China, especially in Wuhan. Here are links to living updates of the situation
 
@@ -21,3 +21,13 @@ Recently, the coronavirus become severe in China, especially in Wuhan. Here are 
 
 
 [邵阳发布](https://mp.weixin.qq.com/s/1v1nxVceWZ64rdT7V4iD3g)
+
+直播造医院：
+[雷神山](http://t.cn/A6PIeT14)
+[火神山](http://t.cn/A6PIYNvD)
+
+新冠病毒疫情中的武汉援助信息网站
+[2020 援助武汉](https://wuhan2020.kaiyuanshe.cn/#)
+[开源项目](https://github.com/wuhan2020/wuhan2020)
+
+[更多信息网站](https://github.com/coddec/2020-new-coronavirus/blob/master/README.md)
