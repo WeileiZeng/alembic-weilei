@@ -10,13 +10,13 @@ Recently, the coronavirus become severe in China, especially in Wuhan. Here are 
 
 <!-- more -->
 
-
-
-<iframe src="https://wuhan.zw2s.ltd/" width="100%" height="520px"></iframe>
-[map source](https://github.com/laomocode/yiqin)
-
 邵阳市疫情动态
-<iframe  width='600' height='400' frameBorder='0' src='https://g.dituhui.com/apps/range/viewMap/2c9085306fbb67f1016ff84634f51c09'></iframe>
+<iframe  width='360' height='480' frameBorder='0' src='https://g.dituhui.com/apps/range/viewMap/2c9085306fbb67f1016ff84634f51c09'></iframe>
+
+
+
+<iframe src="https://wuhan.zw2s.ltd/" width="360" height="360"></iframe>
+[map source](https://github.com/laomocode/yiqin)
 
 
 [Live updates @nytimes](https://www.nytimes.com/2020/01/28/world/asia/china-coronavirus.html)
