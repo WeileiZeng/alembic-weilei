@@ -31,6 +31,8 @@ Recently, the coronavirus become severe in China, especially in Wuhan. Here are 
 [2020 援助武汉](https://wuhan2020.kaiyuanshe.cn/#)
 [开源项目](https://github.com/wuhan2020/wuhan2020)
 
+[2019-nCoV 疫情信息导航](http://nav.werty.cn/)
+
 [更多信息网站](https://github.com/coddec/2020-new-coronavirus/blob/master/README.md)
 
 
