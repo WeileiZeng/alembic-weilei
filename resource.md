@@ -20,5 +20,11 @@ excerpt: "resources for quantum computing"
 * [{{ item.name }}]({{ item.web_url }})
 {% endfor %}
 
+## IT stack
+I learn programming/web skills all the time.
+{% for item in site.it %}
+* [{{ item.name }}]({{ item.web_url }})
+{% endfor %}
+
 
 
