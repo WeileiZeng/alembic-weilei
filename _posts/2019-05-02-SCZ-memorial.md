@@ -1,8 +1,8 @@
 ---
 title: "Shoucheng Zhang Memorial Workshop"
 categories:
-- Research
 - Events
+- Research
 published: true
 ---
 
