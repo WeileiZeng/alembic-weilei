@@ -37,7 +37,7 @@ plugins:
 - jemoji
 
 # 3. Gem settings
-paginate: 5 # jekyll-paginate > items per page
+#paginate: 5 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
@@ -112,14 +112,16 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Resume
-  url: /resume/
-- title: Publications
-  url: /publications/
+#- title: Resume
+#  url: /resume/
+#- title: Publications
+#  url: /publications/
+- title: Research
+  url: /research/
 - title: Blog
   url: /blog/
-- title: Categories
-  url: /categories/
+#- title: Categories
+#  url: /categories/
 - title: Resource
   url: /resource/
 - title: Search

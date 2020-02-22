@@ -11,7 +11,10 @@ Prof Leonid Pryadko's group</a> at UC Riverside, interested
 in quantum computation, quantum error correction and condensed matter
 physics.
 
-<p>Address: MSE 312,
+
+<!-- use "p" to avoid large line breaker -->
+<p>
+Office: MSE 312,
 900 University Ave. Riverside CA 92507 USA<br>
 
 Phone: +1 (951) 563-4581 <br>
@@ -19,5 +22,7 @@ Phone: +1 (951) 563-4581 <br>
 E-mail: weilei.zeng@email.ucr.edu<br>
 
 Home Page: 
-  <a href="https://weileizeng.com">weileizeng.com</a></p>
+  <a href="https://weileizeng.com">weileizeng.com</a><br>
 
+This is my <a href="./resume/">resume</a> and <a href="./publications">publications</a>.<br>
+</p>

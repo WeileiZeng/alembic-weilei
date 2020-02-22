@@ -17,9 +17,10 @@ E-mail: weilei.zeng@email.ucr.edu<br>
 Home Page: 
   <a href="https://weileizeng.com">weileizeng.com</a> <br>
 
+This is my
 <a class="{% if site.style == 'dark' %}text-white{% endif %}" href="/zwl_assets/weilei-cv.pdf">
-    This is my CV
-  </a>
+    CV  </a>
+    and <a href="./../publications/">publications</a>.
 </p>
 
 <h2 id="-education">- Education</h2>

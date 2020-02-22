@@ -2,6 +2,10 @@
   <section class="section  typeset">
     <ul class="list  list--posts">
       {% for page in paginator.posts %}
+
+      
+      {% unless page.categories contains "Research" %}
+      
         <li class="item  item--post">
           <article class="article  article--post">
 
@@ -11,6 +15,7 @@
 
           </article>
         </li>
+	{% endunless %}
       {% endfor %}
     </ul>
     {% include post-pagination.html %}
@@ -19,6 +24,7 @@
   <section class="section  typeset">
     <ul class="list  list--posts">
       {% for page in site.posts %}
+      {% unless page.categories contains "Research" %}
         <li class="item  item--post">
           <article class="article  article--post">
 
@@ -28,6 +34,7 @@
 
           </article>
         </li>
+	{% endunless %}
       {% endfor %}
     </ul>
   </section>
