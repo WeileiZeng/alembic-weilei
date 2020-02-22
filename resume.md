@@ -1,6 +1,6 @@
 ---
-title: Resume
-excerpt: "Resume page for Weilei Zeng"
+title: Resume of Weilei Zeng
+excerpt: "Resume of Weilei Zeng"
 ---
 PhD student in <a href="https://faculty.ucr.edu/~leonid/">
 Prof Leonid Pryadko's group</a> at UC Riverside, interested
