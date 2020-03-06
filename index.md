@@ -12,20 +12,24 @@ in quantum computation, quantum error correction and condensed matter
 physics.
 
 
-<!-- use "p" to avoid large line breaker -->
-<p>
+
+
 Office: MSE 312,
-900 University Ave. Riverside CA 92507 USA<br>
-
-Phone: +1 (951) 563-4581 <br>
-
-E-mail: weilei.zeng@email.ucr.edu<br>
-
+900 University Ave. Riverside CA 92507 USA
+<br>
+Phone: +1 (951) 563-4581
+<br>
+E-mail: weilei.zeng@email.ucr.edu
+<br>
 Home Page: 
   <a href="https://weileizeng.com">weileizeng.com</a><br>
-
 This is my <a href="./resume/">resume</a>, <a href="./publications/">publications</a> and <a href="./research/">research page</a>.
-</p>
+<br>
+Recent update:
+[Belief Probagation](research/2019/12/25/belief-propagation/),
+[Subsystem product codes and concatenated codes](zwl_assets/qas-poster-hcub003.pdf),
+[OpenSourceWuhan](https://weileizeng.github.io/OpenSourceWuhan/world)<br>
+
 
 
 {% include nav-social.html %}
