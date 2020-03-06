@@ -24,5 +24,8 @@ E-mail: weilei.zeng@email.ucr.edu<br>
 Home Page: 
   <a href="https://weileizeng.com">weileizeng.com</a><br>
 
-This is my <a href="./resume/">resume</a> and <a href="./publications">publications</a>.<br>
+This is my <a href="./resume/">resume</a>, <a href="./publications/">publications</a> and <a href="./research/">research page</a>.
 </p>
+
+
+{% include nav-social.html %}

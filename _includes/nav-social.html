@@ -2,7 +2,7 @@
   {% for link in site.social_links %}
     {% if link[1] != blank %}
       {% assign id = link[0] | downcase %}
-      <a href="{{ link[1] }}">
+      <a href="{{ link[1] }}" target="blank">
         {% include icon.html id=id title=id %}
       </a>
     {% endif %}
