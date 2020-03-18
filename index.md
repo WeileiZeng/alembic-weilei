@@ -28,7 +28,7 @@ This is my <a href="./resume/">resume</a>, <a href="./publications/">publication
 Recent update:
 [Belief Probagation](research/2019/12/25/belief-propagation/),
 [Subsystem product codes and concatenated codes](zwl_assets/qas-poster-hcub003.pdf),
-[OpenSourceWuhan](https://weileizeng.github.io/OpenSourceWuhan/world)<br>
+[Open Source COVID-19](https://weileizeng.github.io/Open-Source-COVID-19)<br>
 
 
 
