@@ -2,7 +2,7 @@
 title: Home
 feature_text: |
   ## Weilei Zeng
-  The world is unitary
+  Stay strong, stay healthy.
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Welcome to my homepage!"
 ---
