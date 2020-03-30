@@ -2,7 +2,11 @@
 title: Home
 feature_text: |
   ## Weilei Zeng
-  Stay strong, stay healthy.
+  More is different
+quote:
+- Mamba out
+- Stay strong, stay healthy
+- More is different
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Welcome to my homepage!"
 ---
