@@ -23,6 +23,8 @@ exclude:
 - Gemfile.lock
 - alembic-jekyll-theme.gemspec
 - .jekyll-cache
+- start_server.sh
+
 
 # 2. Installed Gems
 plugins:
@@ -36,6 +38,14 @@ plugins:
 - jekyll-commonmark
 - jekyll-include-cache
 - jemoji
+- jekyll/scholar
+# scholar added by Weilei, Apr 16, 2020. using _layout/bib.html
+scholar:
+  bibliography_template: bib
+
+
+
+
 
 # 3. Gem settings
 #paginate: 5 # jekyll-paginate > items per page
