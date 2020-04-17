@@ -2,7 +2,11 @@
  "references"
  (lambda ()
    (LaTeX-add-bibitems
+    "zeng2019higher"
+    "zeng2019convolutional"
     "ruby"
-    "ruby2"))
+    "duffy2019capacity"
+    "bravyi2018correcting"
+    "kuo2020refined"))
  :bibtex)
 

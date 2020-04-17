@@ -1,10 +1,56 @@
 ---
 title: Elements
 feature_text: |
-  My A demo of Markdown and HTML includes many things
+  A demo of Markdown and HTML includes many things
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
+use-math: true
+---
+
+
+## Tools added by Weilei for this site
+### display math
+use front matter `use-math: true`. _e.g._ $ y=ax+b$
+
+$$ y=f(x) $$
+
+\begin{equation} y=ax+b \end{equation}
+\begin{align} M=a \\\\ M=b \end{align}
+\begin{array}{cc} a & b\\\\ c & 2 \end{array}
+
+```
+_e.g._ $ y=ax+b$
+
+$$ y=f(x) $$
+
+\begin{equation} y=ax+b \end{equation}
+\begin{align} M=a \\\\ M=b \end{align}
+\begin{array}{cc} a & b\\\\ c & 2 \end{array}
+```
+
+### Citations
+default bib file is _bibliography/reference.bib
+
+{% cite zeng2019higher %}
+
+{% bibliography -f zwl %}
+
+```
+{% cite zeng2019higher %}
+
+{% bibliography -f zwl %}
+```
+
+original guide [here](https://haixing-hu.github.io/programming/2013/09/20/how-to-use-mathjax-in-jekyll-generated-github-pages/)
+
+### format converter
+* tex to markdown/html
+`pandoc hello.tex -o hello.md`,
+  * for citations. use `pandoc -s --bibliography biblio.bib --filter pandoc-citeproc hello.md -o hello.html` to generate reference in the end, and copy it to `hello.md`. See [demo](https://pandoc.org/demos.html). Use `sed` to generate links from citation to the reference.
+  Necesseary front matter should be added for a page or post
+* pdf to html `pdf2latexEX`. 
+
 ---
 
 # After title Heading 1
@@ -26,6 +72,7 @@ aside: true
 Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
 
 Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
+
 
 * An item
 * An item
