@@ -1,6 +1,7 @@
 ---
 title: "List of publications"
 categories:
+- Study
 - News
 - Research
 - Fun
