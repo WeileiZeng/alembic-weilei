@@ -3,8 +3,12 @@ build:
 	jekyll build
 serve:
 	bundle exec jekyll serve 2>&1 | grep -E -v 'deprecated|GitHub Metadata'
+#the last part deprecate some long unimportant warnings
+# In general, use the following cmd to serve
 #	bundle exec jekyll serve
-deploy:
+deploy-github:
+	git push
+deploy-raspebrry:
 #	tar cf - _site | ssh pi@raspberrypi.attlocal.net '(cd ~/working/website/; tar xf - )'
 #	scp -r _site pi@raspberrypi.attlocal.net:~/working/website
 	echo "This send files in _site to raspberry pi. Make sure it has been built to the newst version"
