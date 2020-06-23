@@ -67,6 +67,30 @@
   - name: More Colloquiua Within Southern California 
     web_url: https://condensedmatter.ucr.edu/resources.html
 
+
+- group: Lectures
+  items:
+  - name: The theory of Quantum Information
+    web_url: https://www.cambridge.org/core/books/theory-of-quantum-information/AE4AA5638F808D2CFEB070C55431D897
+    description: by John Watrous.
+  - name: Quantum Computation and Quantum Information
+    web_url: https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176
+    description: by Michael Nielsen and Isaac Chuang.
+  - name: Quantum Computing since Democritus
+    web_url: https://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565/ref=pd_sim_14_2?_encoding=UTF8&pd_rd_i=0521199565&pd_rd_r=PFA6E1AADD13EF42CMPZ&pd_rd_w=Zx9Gs&pd_rd_wg=O132x&psc=1&refRID=PFA6E1AADD13EF42CMPZ
+    description: by Scott Aaronson.
+  - name: Quantum Proofs
+    web_url: https://arxiv.org/abs/1610.01664
+    description: by Thomas Vidick and John Watrous.
+  - name: Lecture Notes on Quantum Algorithms
+    web_url: http://www.cs.umd.edu/~amchilds/qa/
+    description: by Andrew Childs.
+  - name: Quantum error correction for quantum memories
+    web_url: https://journals.aps.org/rmp/pdf/10.1103/RevModPhys.87.307?casa_token=pexjdfeH_loAAAAA%3APuM8OVtRY5aXjqBjM-FKUFxWFcYLa9P2y2_EhRPYtbNg2EIJUi0rx1NDbe1d8T8dYJRwhU5T5ToEJvc
+    description: by Barbara Terhal
+
+
+
 - group: It Stack
   description: I learn programming/web skills all the time.
   items:
