@@ -1,4 +1,6 @@
-#echo this script will start the server at local host. this may take 10 seconds
+target:
+	echo "this script will start the server at local host. this may take 10 seconds"
+	echo "target: build serve deploy-github deploy-raspberry"
 build:
 	jekyll build
 serve:
