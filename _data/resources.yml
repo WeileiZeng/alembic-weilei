@@ -91,7 +91,7 @@
 
 - group: Links
   items:
-  - Quantum Algorithm Zoo
+  - name: Quantum Algorithm Zoo
   - web_url: https://quantumalgorithmzoo.org/
 
 - group: It Stack
