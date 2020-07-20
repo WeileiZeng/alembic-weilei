@@ -92,7 +92,7 @@
 - group: Links
   items:
   - name: Quantum Algorithm Zoo
-  - web_url: https://quantumalgorithmzoo.org/
+    web_url: https://quantumalgorithmzoo.org/
 
 - group: It Stack
   description: I learn [programming/web skills](/zwl_assets/it.html) all the time.
