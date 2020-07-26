@@ -48,7 +48,7 @@
     image_url: https://brownlab.pratt.duke.edu/sites/brownlab.pratt.duke.edu/files/scholars_images/thumb_image_5009222.png
 
 
-- group: Links
+- group: Seminars
   items:
   - name: UCR physics
     web_url: https://physics.ucr.edu/colloquia-seminars
@@ -89,7 +89,10 @@
     web_url: https://journals.aps.org/rmp/pdf/10.1103/RevModPhys.87.307?casa_token=pexjdfeH_loAAAAA%3APuM8OVtRY5aXjqBjM-FKUFxWFcYLa9P2y2_EhRPYtbNg2EIJUi0rx1NDbe1d8T8dYJRwhU5T5ToEJvc
     description: by Barbara Terhal
 
-
+- group: Links
+  items:
+  - name: Quantum Algorithm Zoo
+    web_url: https://quantumalgorithmzoo.org/
 
 - group: It Stack
   description: I learn [programming/web skills](/zwl_assets/it.html) all the time.
@@ -106,6 +109,7 @@
     web_url: https://www.3blue1brown.com/
     description: "[math music](https://www.youtube.com/watch?v=nYVig7BfuEA&list=OLAK5uy_nCawb3VyvHzAuYpZWFnvIKNh5lZlC6o3I)"
 
+
 - group: Inspiration
   items:
   - name: Lex Fridman
@@ -115,3 +119,4 @@
   - name: Peter Norvig
     web_url: https://norvig.com/sudoku.html
     
+
