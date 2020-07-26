@@ -105,3 +105,13 @@
   - name: 1blue3brown
     web_url: https://www.3blue1brown.com/
     description: "[math music](https://www.youtube.com/watch?v=nYVig7BfuEA&list=OLAK5uy_nCawb3VyvHzAuYpZWFnvIKNh5lZlC6o3I)"
+
+- group: Inspiration
+  items:
+  - name: Lex Fridman
+    web_url: https://lexfridman.com/
+  - name: Andrew Ng
+    web_url: https://www.andrewng.org/
+  - name: Peter Norvig
+    web_url: https://norvig.com/sudoku.html
+    
