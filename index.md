@@ -2,7 +2,7 @@
 title: Home
 feature_text: |
   ## Weilei Zeng
-  More is different
+  Learn science and philosophy, practice intelligence and humanity
 quote:
 - Mamba out
 - Stay strong, stay healthy
@@ -30,7 +30,7 @@ Home Page:
 This is my <a href="./resume/">resume</a>, <a href="./publications/">publications</a> and <a href="./research/">research page</a>.
 <br>
 Recent update:
-[Belief Probagation](research/2019/12/25/belief-propagation/),
+[Belief Probagation](research/2020/04/16/belief-propagation/),
 [Subsystem product codes and concatenated codes](zwl_assets/qas-poster-hcub003.pdf),
 [Open Source COVID-19](https://weileizeng.github.io/Open-Source-COVID-19)<br>
 
