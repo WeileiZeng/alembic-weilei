@@ -6,14 +6,14 @@ categories:
 - Research
 ---
 
-_Belief Propagation_ is a very effcient decoder for classiccal codes. Implementation of BP for quantum codes has been attempted for a while, but with only limited performance. Here I describe various forms of it.
+_Belief Propagation_ is a very efficient decoder for classical codes. Implementation of BP for quantum codes has been attempted for a while, with limited performance so far. Here I describe various forms of it.
 
 <!-- more -->
 
 See more on [Belief Propagation and the Stochastic Block Model](https://windowsontheory.org/2018/10/20/belief-propagation-and-the-stochastic-block-model/)
 
 
-The Belief Propagation (BP) algorithm can approximate the maginal
+The Belief Propagation (BP) algorithm can approximate the marginal
 probability of errors, giving the received bits or the syndrome. It is
 designed for factor graph. When the graph is a tree, it gives the exact
 marginal probability. There are several equivalent/approximate versions
