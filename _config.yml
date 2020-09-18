@@ -34,7 +34,8 @@ plugins:
 - jekyll-seo-tag
 - jekyll-redirect-from
 - jekyll-default-layout
-- jekyll-feed
+#- jekyll-feed
+#commented by Weilei to speed up compilation. CSS feeds are not used so far
 - jekyll-commonmark
 - jekyll-include-cache
 - jemoji
@@ -153,7 +154,8 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   Twitter: https://twitter.com/240155787
   LinkedIn: https://www.linkedin.com/in/weilei-zeng-032600111
   link: https://scholar.google.com/citations?user=WbmLp6QAAAAJ&hl=en
-  RSS: /feed.xml
+  medium: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU5MzUyNjUwNw==&action=getalbum&album_id=1453479464788426755&scene=173#wechat_redirect
+#  RSS: /feed.xml
   
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour

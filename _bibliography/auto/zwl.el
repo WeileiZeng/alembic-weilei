@@ -2,8 +2,8 @@
  "zwl"
  (lambda ()
    (LaTeX-add-bibitems
-    "zeng2018higher"
-    "zeng2019quantum"
-    "zeng2019higher"))
+    "zeng2020k"
+    "zeng2019higher"
+    "zeng2019convolutional"))
  :bibtex)
 
