@@ -3,8 +3,6 @@ title: "When I Was Learning English, What I Was Learning?"
 categories:
 - Life
 published: true
-feature_text: |
-  This is my post
 excerpt: |
   For me, this experience added some soul to this language. It was much more than the words themselves.
 ---
