@@ -2,6 +2,12 @@
 title: Resume of Weilei Zeng
 excerpt: "Resume of Weilei Zeng"
 ---
+Updated on 09/17/2020. 
+<a class="{% if site.style == 'dark' %}text-white{% endif %}" href="/zwl_assets/weilei-cv.pdf">
+    PDF  </a>
+	version (dated 09/17/2020). See also
+    <a href="./../publications/">publication</a>.
+
 PhD student in <a href="https://faculty.ucr.edu/~leonid/">
 Prof Leonid Pryadko's group</a> at UC Riverside, interested
 in quantum computation, quantum error correction and condensed matter
@@ -20,6 +26,7 @@ Home Page:
 This is my
 <a class="{% if site.style == 'dark' %}text-white{% endif %}" href="/zwl_assets/weilei-cv.pdf">
     CV  </a>
+	(pdf as of 09/17/2020)
     and <a href="./../publications/">publications</a>.
 </p>
 
