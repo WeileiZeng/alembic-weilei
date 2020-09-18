@@ -8,10 +8,10 @@ categories:
 - Life
 - Event
 published: true
-feature_test: |
+feature_text: |
   This is my post
 excerpt: |
-  Some text to show
+  Some text to show in preview mode
 ---
 
 **Hello world**, this is my first Jekyll blog post.
