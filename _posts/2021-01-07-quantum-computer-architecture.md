@@ -13,11 +13,14 @@ The architecture of a quantum computer has been proposed in multiple places. Man
 
 In (Meter and Horsman 2013)[1], the architecture is defined as
 
-[pic]
+{% include figure.html image="/assets/fig/architecture-meter.png" caption="kodi" %}
+
+
 
 In (Fu et al 2016) [2], it is depicted as
 
-[pic]
+{% include figure.html image="/assets/fig/architecture-fu.png" caption="kodi" %}
+
 
 They tried to make it compatible and complete for most hardware platforms. Those structures are not necessarily static. They evolve as the development of each part. For today's discussion, I simplify it as the following.
 
