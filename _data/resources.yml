@@ -89,25 +89,37 @@
     web_url: https://journals.aps.org/rmp/pdf/10.1103/RevModPhys.87.307?casa_token=pexjdfeH_loAAAAA%3APuM8OVtRY5aXjqBjM-FKUFxWFcYLa9P2y2_EhRPYtbNg2EIJUi0rx1NDbe1d8T8dYJRwhU5T5ToEJvc
     description: by Barbara Terhal
 
-- group: Links
+- group: Other Links
   items:
   - name: Quantum Algorithm Zoo
     web_url: https://quantumalgorithmzoo.org/
 
-- group: It Stack
+
+- group: Quantum Blogs
+  items:
+  - name: Quantum Frontier
+    web_url: https://quantumfrontiers.com/
+
+- group: IT Blogs
   description: I learn [programming/web skills](/zwl_assets/it.html) all the time.
   items:
   - name: 山月行
     web_url: https://shanyue.tech/
   - name: 静觅 - 崔庆才的个人站点
     web_url: https://cuiqingcai.com/
-  - name: github tootset
+  - name: github toolset
     web_url: https://help.github.com/en
   - name: data visualization - Abacaba
     web_url: https://www.youtube.com/user/1abacaba1
   - name: 1blue3brown
     web_url: https://www.3blue1brown.com/
     description: "[math music](https://www.youtube.com/watch?v=nYVig7BfuEA&list=OLAK5uy_nCawb3VyvHzAuYpZWFnvIKNh5lZlC6o3I)"
+  - name: Jezzamon
+    web_url: http://www.jezzamon.com/
+    description: coding art, web games
+  - name: Sacha Chua
+    web_url: https://sachachua.com/blog/
+    description: emacs, org mode
 
 
 - group: Inspiration
