@@ -2,19 +2,18 @@
 title: Resume of Weilei Zeng
 excerpt: "Resume of Weilei Zeng"
 ---
-Updated on 09/17/2020. 
+Updated on 04/11/2021. 
 <a class="{% if site.style == 'dark' %}text-white{% endif %}" href="/zwl_assets/weilei-cv.pdf">
     PDF  </a>
 	version (dated 09/17/2020). See also
     <a href="./../publications/">publication</a>.
 
-PhD student in <a href="https://faculty.ucr.edu/~leonid/">
-Prof Leonid Pryadko's group</a> at UC Riverside, interested
-in quantum computation, quantum error correction and condensed matter
-physics.
+PostDoc in <a href="http://brownlab.pratt.duke.edu/">Brown Lab</a> at
+<a href="https://duke.edu/">Duke University</a>, interested in quantum
+computation, quantum error correction and condensed matter physics.
 
-<p>Address: MSE 312,
-900 University Ave. Riverside CA 92507 USA<br>
+<p>
+Office: Durham, NC 27701 USA <br>
 
 Phone: +1 (951) 563-4581 <br>
 
@@ -33,7 +32,7 @@ This is my
 <h2 id="-education">- Education</h2>
 <h4 id="phd-in-physics">PhD in Physics</h4>
 <p>
-  Sept.2015-present<br>
+  Sept.2015-Mar.2021 (Master of Science granted in 2016)<br>
 University of California, Riverside, US (UCR)<br>
 Interest: quantum error correction, quantum computing, condensed matter physics<br>
   Advisor:  <a href="http://faculty.ucr.edu/~leonid/"> Leonid Pryadko </a></p>
@@ -48,9 +47,9 @@ Interest: quantum error correction, quantum computing, condensed matter physics<
 
 <h2>- Working Experience </h2>
 
-
-<li> Jun.2019 – Aug. 2019 <br> Summer Intern at Peng Cheng Lab, Shenzhen, China, working on quantum computing </li>
-<li> Jun.2018 – Aug. 2018 <br> Summer Intern at Nokia Bell Labs, working on quantum information </li>
+<li> Dec. 2020 - Mar. 2021 <br> Quantum Error Correction Researcher at Xanadu, Toronto </li>
+<li> Jun. 2019 – Aug. 2019 <br> Summer Intern at Peng Cheng Lab, Shenzhen, China, working on quantum computing </li>
+<li> Jun. 2018 – Aug. 2018 <br> Summer Intern at Nokia Bell Labs, working on quantum information </li>
 <li> Aug. 2013 <br> Programmer Intern (C#, Unity3D), Pearl Digital Entertainment, Shanghai, China </li>
 
 
